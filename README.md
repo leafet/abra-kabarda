@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/LINUX-8A2BE2.svg)](https://github.com/leafet/abra-kabarda/blob/master/README.md)
+[![](https://img.shields.io/badge/LINUX-8A2BE2.svg)](https://github.com/leafet/abra-kabarda/blob/master/README.win.md)
 # Установка
 1) В первую очередь нам понадобится (Ubuntu, МСВС сфера).
 2) Далее заходим на [сайт загрузки wolfram](https://www.wolfram.com/download-center/) и скачиваем устaновщик с расширением .sh
